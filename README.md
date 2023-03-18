@@ -1,9 +1,7 @@
-# Sanity Clean Content Studio
+# Sanity Content Studio For Panorama Viewer Project
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+This is the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
 
-Now you can do the following things:
+This will be used as a Content Management System (CMS) to to store image files and their related data.
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+ The CMS is hosted on Cloud and requires authorization to make changes.

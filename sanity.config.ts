@@ -5,7 +5,7 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'olive-termite',
+  title: 'panorama-viewer-project-cms',
 
   projectId: '0u3qo37j',
   dataset: 'production',
